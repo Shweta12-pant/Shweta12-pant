@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shweta Pant</h1>
-<h3 align="center">Computer Science Engineering Student | Full-Stack Developer | DevOps Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer| DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:shwetapant1037@gmail.com">
