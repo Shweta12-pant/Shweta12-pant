@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shweta Pant</h1>
-<h3 align="center">Aspiring Software Engineer| DevOps Enthusiast</h3>
+<div align="center">
+
+#  Hey, I'm Shweta Pant
+
+### Software Engineer in Progress • DevOps Enthusiast 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Learning+Cloud+%26+DevOps;Solving+Data+Structures+%26+Algorithms;Open+to+Learning+%26+Opportunities+🚀"/>
+
+</div>
+
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shwetapant1037@gmail.com">
@@ -75,15 +83,14 @@ I'm a **Computer Science Engineering student** passionate about **Full-Stack Dev
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shweta12-pant&show_icons=true&theme=github&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shweta12-pant&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta12-pant&layout=compact&theme=github&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta12-pant&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta12-pant&theme=github&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Shweta12-pant&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 # 📈 GitHub Activity Graph
